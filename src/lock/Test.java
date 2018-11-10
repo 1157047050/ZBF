@@ -8,7 +8,6 @@ public class Test {
         //Lock lock = new ReentrantLock();
       /*  Integer i=null;
         int w = i.intValue();
-        gfdgfdfgdfghdhgdfhgd
         System.out.println(w);*/
         String e= String.valueOf(6);
         System.out.println(e.equals("6"));
